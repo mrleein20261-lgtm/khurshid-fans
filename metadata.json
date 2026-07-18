@@ -1,0 +1,6 @@
+{
+  "name": "Khurshid Fans Admin Dashboard",
+  "description": "Enterprise-grade administration dashboard for Khurshid Fans, managing products, orders, users, analytics, support complaints, real-time chat, and CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
